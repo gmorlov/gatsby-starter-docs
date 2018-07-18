@@ -32,9 +32,9 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Lesson", name: "lesson", widget: "number"}
       - {label: "Chapter", name: "chapter", widget: "number"}
-   - name: "Lessons"
-     label: "Lessons"
-     folder: "content/lessons"
-     create: true
-     fields:
-       - {label: "Title", name: "title", widget: "string"}
+  - name: "Lessons"
+    label: "Lessons"
+    folder: "content/lessons"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
