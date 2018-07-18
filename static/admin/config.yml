@@ -5,7 +5,7 @@ backend:
 media_folder: static/img/uploads
 public_folder: /img/uploads
 
-publish_mode: editorial_workflow #
+publish_mode: editorial_workflow
 
 collections:
   - name: "docs"
@@ -33,8 +33,8 @@ collections:
       - {label: "Lesson", name: "lesson", widget: "number"}
       - {label: "Chapter", name: "chapter", widget: "number"}
    - name: "Lessons"
-      label: "Lessons"
-      folder: "content/lessons"
-      create: true
-      fields:
-        - {label: "Title", name: "title", widget: "string"}
+     label: "Lessons"
+     folder: "content/lessons"
+     create: true
+     fields:
+       - {label: "Title", name: "title", widget: "string"}
