@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":5,"head":"a51fca389205b790f388cb08a93b6e56bf08ced1"},"user":"fracio","status":"draft","branch":"cms/foo","collection":"docs","title":"foo","description":"foobar","objects":{"entry":{"path":"src/pages/docs/foo.md","sha":"4c7e62bcf2e68931e98b42e1d81f831280138a3e"},"files":[]},"timeStamp":"2018-07-19T18:34:55.409Z"}
