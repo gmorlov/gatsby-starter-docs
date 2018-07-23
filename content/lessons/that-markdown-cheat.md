@@ -33,6 +33,7 @@ Alt-H1
 ======
 Alt-H2
 ------
+
 ```
 # H1
 ## H2
@@ -43,9 +44,10 @@ Alt-H2
 Alternatively, for H1 and H2, an underline-ish style:
 # Alt-H1
 ## Alt-H2
-<a name="emphasis"/>
+
 ## Emphasis
 ```no-highlight
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
@@ -56,6 +58,7 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 <a name="lists"/>
+
 ## Lists
 ```no-highlight
 1. First ordered list item
@@ -69,6 +72,7 @@ Some text that should be aligned with the above item.
 - Or minuses
 + Or pluses
 ```
+
 1. First ordered list item
 2. Another item
 * Unordered sub-list.
@@ -80,6 +84,7 @@ Some text that should be aligned with the above item.
 * Or minuses
 * Or pluses
 <a name="links"/>
+
 ## Links
 There are two ways to create links.
 ```no-highlight
@@ -95,6 +100,7 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 ```
+
 [I'm an inline-style link](https://www.google.com)
 [I'm a reference-style link](https://www.mozilla.org)
 [You can use numbers for reference-style link definitions](http://slashdot.org)
@@ -104,6 +110,7 @@ http://www.example.com or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 <a name="images"/>
+
 ## Images
 ```no-highlight
 Here's our logo (hover to see the title text):
