@@ -5,7 +5,7 @@ title: Lesson Two
 
 ## The Green Book is a guide which sets out key processes, controls and information for DMGT Operating Companies.
 
-## 
+***
 
 
 
