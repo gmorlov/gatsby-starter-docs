@@ -5,7 +5,8 @@ title: Lesson Two
 
 ## The Green Book is a guide which sets out key processes, controls and information for DMGT Operating Companies.
 
-***
+## heading
+text
 
 ## NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
 
