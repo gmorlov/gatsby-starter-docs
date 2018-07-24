@@ -1,5 +1,5 @@
 ---
-title: Lesson Twofive
+title: Lesson Two - Scope and responsibilities
 ---
 # Scope and responsibilities
 
