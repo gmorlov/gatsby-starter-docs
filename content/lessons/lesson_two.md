@@ -5,9 +5,7 @@ title: Lesson Two
 
 ## The Green Book is a guide which sets out key processes, controls and information for DMGT Operating Companies.
 
-## 
-
-
+***
 
 ## NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
 
@@ -316,7 +314,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd>Does \\*not\\* work \\*\\*very\\*\\* well. Use HTML <em>tags</em>.</dd>
+  <dd>Does \\\*not\\\* work \\\*\\\*very\\\*\\\* well. Use HTML <em>tags</em>.</dd>
 </dl>
 
 <a name="hr"/>
