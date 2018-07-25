@@ -35,4 +35,10 @@ Tim Collier, DMGT CFO (<tim.collier@dmgt.com>)
 <br>
 Matt Oatway, Chief of Staff (<matt.oatway@dmgt.com>)
 
+*** 
+
+
+<font color="green"><H3>Go to www.iworkhere.dmgt.com for:</H3></font>
+- [Template Approvals meetings paper](https://www.iworkhere.dmgt.com/member/login?destination=node/39%3Fpolicy_type%3D63 "Template Approvals meetings paper")
+- [Terms of Reference](https://https://www.iworkhere.dmgt.com/member/login?destination=node/39%3Fpolicy_type%3D63 "Terms of Reference")
 
