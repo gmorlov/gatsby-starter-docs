@@ -2,6 +2,8 @@
 title: Lesson Four
 ---
 
+## Speak-Up
+
 ### DMGT encourages employees to report behaviour they see that is in breach of the Green Book, the Code of Conduct, or any other illegal or unethical behaviour. In the  first instance, employees should be encouraged to report concerns to their line manager.
 
 #### Where, for specific reasons, employees feel they cannot raise the matter directly with someone within the business, or that they need to remain anonymous, the Group has an independent Speak-Up facility. This condential facility is run by an impartial third party.
