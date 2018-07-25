@@ -8,7 +8,7 @@
           "title": "1.1 DMGT at a glance",
           "entries": [
             {
-              "entry": "./1-dmgt-at-a-glance.md"
+              "entry": "./lesson_one.md"
             }
           ],
           "chapters": [
@@ -20,7 +20,9 @@
                 },
                 {
                   "entry": "./lesson_three.md"
-                }
+                }, 
+                { 
+                  "entry": "./that-markdown-cheat.md"
               ]
             }
           ]
