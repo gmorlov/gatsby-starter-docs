@@ -2,10 +2,10 @@
   "id": "table-of-contents",
   "chapters": [
     {
-      "title": "1. Introduction",
+      "title": "1. Main Chapter",
       "chapters": [
         {
-          "title": "1.1 DMGT at a glance",
+          "title": "1.1 Subchapter",
           "entries": [
             {
               "entry": "./lesson_one.md"
@@ -13,17 +13,15 @@
           ],
           "chapters": [
             {
-              "title": "1.1 Scope and responsibilities",
+              "title": "1.1.1 Sub-subchapter",
               "entries": [
                 {
                   "entry": "./lesson_two.md"
                 },
                 {
                   "entry": "./lesson_three.md"
-                }, 
-                { 
-                  "entry": "./that-markdown-cheat.md"
-  
+                }
+              ]
             }
           ]
         },
@@ -38,10 +36,10 @@
       ]
     },
     {
-      "title": "2. Operating procedures",
+      "title": "2. Main Chapter",
       "chapters": [
         {
-          "title": "2.1 Strategy",
+          "title": "2.1 Subchapter",
           "entries": [
             {
               "entry": "./lesson_five.md"
@@ -51,7 +49,7 @@
       ]
     },
     {
-      "title": "3. Appendices",
+      "title": "3. Main Chapter",
       "entries": [
         {
           "entry": "./lesson_six.md"
