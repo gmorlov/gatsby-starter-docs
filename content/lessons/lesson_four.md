@@ -24,7 +24,8 @@ title: Lesson Four - Speak-Up
 
 <font color="green"><H2>Actions</h2></font>
 
-* All Operating Companies are required to actively promote the independent Speak-Up facility to employees and ensure the policy is accessible. Posters to promote awareness of the facilityare available
+* All Operating Companies are required to actively promote the independent Speak-Up facility to employees and ensure the policy is accessible. Posters to promote awareness of the facility are available 
+[here](https://www.iworkhere.dmgt.com/member/login?destination=node/39%3Fpolicy_type%3D62"Title")
 
 * It is expected that Speak-Up reports are investigated and resolved within the Operating Company to which they relate. When such reports are received through the Speak-Up facility, they are visible only to the DMGT Risk Department. DMGT will in the first instance inform the Operating Company CEO, CFO, Head of HR or Legal contact, whomever is the most appropriate.
 
@@ -32,4 +33,10 @@ title: Lesson Four - Speak-Up
 
 * DMGT will liaise with the relevant Operating Company when reports are received through the Speak-Up facility.
 
-* Only DMGT Risk can communicate with the whistleblower in the Speak-Up facility. Any messages will be agreed with the relevant Operating Company prior to posting.
+* Only DMGT Risk can communicate with the whistleblower in the Speak-Up facility. Any messages will be agreed with the relevant Operating Company prior to posting. 
+
+***
+<font color="green"><H3>Contacts:</h3></font>
+Annie Edwards, Global Head of HR (<annie.edwards@dmgt.com>)
+<br>
+Catherine Lye, Senior Risk Manager (<catherine.lye@dmgt.com>)
