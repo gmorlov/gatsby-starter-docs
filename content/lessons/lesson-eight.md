@@ -5,12 +5,14 @@ title: 'Lesson Eight '
 
 ### To ensure DMGT meets your business critical deadlines, we have in place a weekly Approvals Meeting to consider items which require approval per the thresholds in the Green Book.
 
+***
 
-|         | Operating Company    | Approvals Meetings  | DMGT | Operating Company|
-| :-------------: |:-------------:| :-----:| :-----:|:-----:|
-| Process:      | Identify items requiring DMGT approval using the Green Book as a guide | Submissions made to the Company Secretary by 3pm (UK) each Friday using template paper |
-| Performed by:      | centered      |   $12 |
-| Frequency: | are neat      |    $1 |
+
+|         | Operating Company    | Approvals Meetings  | DMGT Approval Body | Operating Company|
+| :-------------: |:-------------| :-----| :-----|:-----|
+| Process:      | Identify items requiring DMGT approval using the Green Book as a guide | Submissions made to the Company Secretary by 3pm (UK) each Friday using template paper |Items approved at the Approval meeting included in relevant Committee papers | Operating Company notified of outcome 
+| Performed by:      | Operating Company relevant function (e.g. Finance, HR, Legal)      |   • DMGT CEO <br>• DMGT CFO <br> • Input from relevant Central Team members as required | • DMGT Board <br> • Executive Committee <br> • Investment & Finance Committee <br> • Remuneration & Nomination Committee <br> • Audit & Risk Committee| Relevant Central Team member1
+| Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly | 
 
 
 
