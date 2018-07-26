@@ -10,22 +10,11 @@ Page 16
 ![](/img/uploads/dmgt-green-book-v9.pdf-page-16-of-56-2018-07-26-14-28-56.jpg)
 
 
-US Dollar equivalent at £1:$1.51. Property expenditure is the aggregate total liability relating to property leases (i.e. over the lifetime of the lease) or purchase costs, and include any fit-out expenditure.
-2. Whichever is lower.
-3. Capitilised development expenditure requires the same approval process as other capital expenditure, but in addition the forecast justifying capitilised development must be
-
-- - -
-
-<font color="green"><H2>Contacts: </h2></font>
-Paul Zwillenberg, DMGT CEO (<mailto:zwillenberg@dmgt.com>)
+US Dollar equivalent at £1:$1.5 
 <br>
-Fran Sallas, Company Secretary (<mailto:fran.sallas@dmgt.com>)
+<sup>1.</sup> Property expenditure is the aggregate total liability relating to property leases (i.e. over the lifetime of the lease) or purchase costs, and include any fit-out expenditure.
 <br>
-Tim Collier, DMGT CFO (<mailto:tim.collier@dmgt.com>)
+<sup>2. </sup> Whichever is lower.
 <br>
-Matt Oatway, Chief of Staff (<mailto:matt.oatway@dmgt.com>)
+<sup>3.</sup> Capitilised development expenditure requires the same approval process as other capital expenditure, but in addition the forecast justifying capitilised development must be approved as part of this process and the accounting justification should be approved by Group Finance prior to any expenditure being capitalised.
 
-- - -
-
-Go to www.iworkhere.dmgt.com for:
-[Guidance for Directors](https://www.iworkhere.dmgt.com/member/login?destination=node/39%3Fpolicy_type%3D63 "Guidance for Directors")
