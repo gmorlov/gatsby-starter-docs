@@ -12,7 +12,7 @@ title: 'Lesson Eight '
 | :-------------: |:-------------| :-----| :-----|:-----|
 | Process:      | Identify items requiring DMGT approval using the Green Book as a guide | Submissions made to the Company Secretary by 3pm (UK) each Friday using template paper |Items approved at the Approval meeting included in relevant Committee papers | Operating Company notified of outcome 
 | Performed by:      | Operating Company relevant function (e.g. Finance, HR, Legal)      |   • DMGT CEO <br>• DMGT CFO <br> • Input from relevant Central Team members as required | • DMGT Board <br> • Executive Committee <br> • Investment & Finance Committee <br> • Remuneration & Nomination Committee <br> • Audit & Risk Committee| Relevant Central Team member1
-| Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly | 
+| Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly | Following relevant approval body meeting 
 
 
 
