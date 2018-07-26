@@ -7,10 +7,10 @@ title: 'Lesson Eight '
 
 
 |         | Operating Company    | Approvals Meetings  | DMGT | Operating Company|
-| ------------- |:-------------:| -----:| -----:|-----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| :-------------: |:-------------:| :-----:| :-----:|:-----:|
+| Process:      | Identify items requiring DMGT approval using the Green Book as a guide | Submissions made to the Company Secretary by 3pm (UK) each Friday using template paper |
+| Performed by:      | centered      |   $12 |
+| Frequency: | are neat      |    $1 |
 
 
 
