@@ -25,22 +25,15 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <h2>A Gatsby Template for Content</h2>
+            <h2>Welcome to the Green Book,a comprehensive guide to key processes and principles for our Operating Companies.</h2>
             <p>
-              Made for modern documentation sites. Table of Contents
-              automatically generated from markdown files.{' '}
+              This site is designed to empower you by clearly laying out the principles, practices and expectations 
+              that underpin our ways of working.
             </p>
-            <CtaButton to={'/lesson-one'}>See Your First Post</CtaButton>
+            <CtaButton to={'/lesson_one.md'}>The Introduction</CtaButton>
 
             <div className="contributors">
-              <p>
-                Created by Eric Windmill.{' '}
-                <a href="https:twitter.com/ericwindmill">
-                  You should follow him on Twitter.
-                </a>{' '}
-                Also, <a href="https://github.com/Levino">Levin Keller</a> for
-                making it better than I could{"'"}ve alone.
-              </p>
+              
             </div>
           </BodyContainer>
         </main>
