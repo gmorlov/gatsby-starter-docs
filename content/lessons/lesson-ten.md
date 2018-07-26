@@ -27,26 +27,18 @@ and [DMGT's 2018 Investor Briefing]
 * The PIP includes Playbooks of best practices and execution templates across five value creation levers: Product, Commercial, Technology, Operations and People. Strategy & Performance Management team members partner with DMGT’s Operating Companies to select and execute PIP initiatives that help to addressthe needs and ambitions of each company. For assistance developing and executing PIP initiatives or for access to the latest library of DMGT PIP Playbooks, contact the Director, Strategy & Performance Management.
 * Operating Company leadership are expected to keep the Strategy & Performance Management team informed of current strategic thinking and priorities, as well as any changes or challenges that may arise, through regular dialogue and updates. Monthly Performance Management Dashboards provide one regular touchpoint between Operating Company leadership and the Strategy & Performance Management team; questions arising from the Strategy & Performance Management team regarding the monthly dashboards are expected to be addressed in a timely and factual manner.
 
+<font color="green"><H2>Interactions with DMGT</h2></font>
 
-<font color="green"><H2>CFO 1:1 catch ups</h2></font>
-* Regular schedule of catch ups between DMGT CFO and Operating Company CFOs.
-* Aimed at increasing transparency and understanding operating performance.
-<font color="green"><H2>Operating Company boards</h2></font>
-* Broader Operating Company update and DMGT leadership team meeting.
-* To be held at the Operating Companies with DMGT CEO and DMGT CFO in attendance.
-* Discussion of ongoing focuses and longer term strategy.
-* DMGT will nominate members of Operating Company Boards in its capacity as ultimate parent company shareholder.
-* Any other recommendations for Operating Company Boards must be discussed with the DMGT CEO in advance.• Operating Company Boards must act ethically and in accordance with all applicable laws and Operating Company constitutional documents.
-* Operating Company Boards must act within the authorisation and approval limits of the Green Book.
+* Approval to execute against a given strategic plan will be provided by DMGT’s Executive Committee, Investment & Finance Committee and/or Board of Directors, in accordance with the quantum of investment required and degree of strategic pivot implied. Refer to the <font color="purple"><H2>INSERT LINK TO PAGE 16 HERE</h2></font> for further information.
+
+
+* Approvals should be sought via the Approvals meeting.
+* Should Operating Company leadership not wish to involve the Strategy & Performance Management team in PIP initiative or a strategic review, DMGT requires that the Director, Strategy & Performance Management be kept abreast of all work and be invited to provide input throughout.
+* Performance Management Dashboard KPIs should be set by Operating Company CEOs and CFOs and the Strategy & Performance Management team, with monthly discussions to update on strategic progress and any changes in trajectory.
+
 - - -
+
 <font color="green"><H2>Contacts: </h2></font>
-Paul Zwillenberg, DMGT CEO (<zwillenberg@dmgt.com>)
-<br>
-Fran Sallas, Company Secretary (<fran.sallas@dmgt.com>)
-<br>
-Tim Collier, DMGT CFO (<tim.collier@dmgt.com>)
-<br>
-Matt Oatway, Chief of Staff (<matt.oatway@dmgt.com>)
-***
-Go to www.iworkhere.dmgt.com for:
-[Guidance for Directors](https://www.iworkhere.dmgt.com/member/login?destination=node/39%3Fpolicy_type%3D63 "Guidance for Directors")
+
+Cameron Drinkwater, Director, Strategy & Performance Management (<cameron.drinkwater@dmgt.com>)
+
