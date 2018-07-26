@@ -15,7 +15,7 @@ title: 'Lesson Eight '
 | Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly| Following relevant approval body meeting |
 
 
-
+<sup>1</sup> Rob Chandhok (DMGT CTO), Cameron Drinkwater (Director, Strategy & Performance Management), Annie Edwards (Global HR Director), Erik Levy (Group Head CDMA), James Odom (Group Legal Advisor), George Orlov (DMGT CIO), Fran Sallas (Company Secretary).
 
 
 - - -
