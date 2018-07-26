@@ -1,6 +1,8 @@
 ---
 title: 'Lesson Ten '
 ---
+Page 15
+
 <font color="green"><H1>Strategy</h1></font>
 
 ### The Strategy and Performance Management team is tasked with setting overall Group strategy, including the allocation of capital, to deliver sustainable earnings growth. We look to our Operating Companies to create ambitious, long-term growth strategies for DMGT to invest behind.
