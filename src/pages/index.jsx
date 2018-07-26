@@ -25,7 +25,7 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <font color="green"><H1>Welcome to the Green Book,a comprehensive guide to key processes and principles for our Operating Companies.</H1></font>
+            <font color="green"><h1>Welcome to the Green Book,a comprehensive guide to key processes and principles for our Operating Companies.</h1></font>
             
               <p>
               This site is designed to empower you by clearly laying out the principles, practices and expectations that underpin our ways of working. You, our Operating Company leaders, need clarity, so you can go faster and make big decisions with absolute certainty about when DMGT&rsquo;s involvement is needed, and when it is not.
