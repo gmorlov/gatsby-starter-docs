@@ -11,8 +11,8 @@ title: 'Lesson Eight '
 |         | Operating Company    | Approvals Meetings  | DMGT Approval Body | Operating Company|
 | :-------------: |:-------------| :-----| :-----|:-----|
 | Process:      | Identify items requiring DMGT approval using the Green Book as a guide | Submissions made to the Company Secretary by 3pm (UK) each Friday using template paper |Items approved at the Approval meeting included in relevant Committee papers | Operating Company notified of outcome 
-| Performed by:      | Operating Company relevant function (e.g. Finance, HR, Legal)      |   • DMGT CEO <br>• DMGT CFO <br> • Input from relevant Central Team members as required | • DMGT Board <br> • Executive Committee <br> • Investment & Finance Committee <br> • Remuneration & Nomination Committee <br> • Audit & Risk Committee| Relevant Central Team member1
-| Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly| Following relevant approval body meeting |
+| Performed by:      | Operating Company relevant function (e.g. Finance, HR, Legal)      |   • DMGT CEO <br>• DMGT CFO <br> • Input from relevant Central Team members as required | • DMGT Board <br> • Executive Committee <br> • Investment & Finance Committee <br> • Remuneration & Nomination Committee <br> • Audit & Risk Committee| Relevant Central Team member<sup>1</sup>
+| Frequency: | As required      |    Weekly | • Executive Committee meets weekly <br> • Board and other Committees meet quarterly | Following relevant approval body meeting |
 
 
 <sup>1</sup> Rob Chandhok (DMGT CTO), Cameron Drinkwater (Director, Strategy & Performance Management), Annie Edwards (Global HR Director), Erik Levy (Group Head CDMA), James Odom (Group Legal Advisor), George Orlov (DMGT CIO), Fran Sallas (Company Secretary).
