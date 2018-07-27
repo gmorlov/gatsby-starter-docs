@@ -1,6 +1,8 @@
 ---
 title: Lesson Twelve
 ---
+Page 18 
+
 <font color="green"><H1>Mergers, acquisitions and investments</h1></font>
 
 ### Early communication of all merger, acquisition, investment and disposal activities is required to DMGT via DMGT Group Head Corporate Development and M&A (DMGT Group Head CDMA).
