@@ -4,7 +4,7 @@ title: Lesson Three - Code of Conduct
 
 ### The Green Book should be read together with the Code of Conduct as they form part of a suite of communications covering governance. The Code of Conduct outlines our commitment to doing business ethically, lawfully and with integrity.
 
- The Code of Conduct is a public document that sets out what we expect from every individual working for and with DMGT and its Operating Companies anywhere in the world, and demonstrates to our customers, business partners, suppliers, shareholders and other stakeholders the values and principles we uphold both internally and externally. 
+The Code of Conduct is a public document that sets out what we expect from every individual working for and with DMGT and its Operating Companies anywhere in the world, and demonstrates to our customers, business partners, suppliers, shareholders and other stakeholders the values and principles we uphold both internally and externally. 
 
 #### Key operating principles: 
 
