@@ -39,35 +39,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "1.2 Subchapter",
-          "entries": [
-            {
-              "entry": "./lesson_four.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "2. Main Chapter",
-      "chapters": [
-        {
-          "title": "2.1 Subchapter",
-          "entries": [
-            {
-              "entry": "./lesson_five.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "3. Main Chapter",
-      "entries": [
-        {
-          "entry": "./lesson_six.md"
         }
       ]
     }
